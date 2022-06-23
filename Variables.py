@@ -35,7 +35,7 @@ print(x+y+z)
 #We cannot add a number variable into string variable with the above method, it will give an error
 
 #Example of global variable and local variable
-A = "awesome"   #this is global variable
+A = "Good bye"   #this is global variable
 #we can assign global variable using keyword "global"
 def myfunc():
   A = "fantastic"   #this is local variable with the same name, so it can apply only on the loop
